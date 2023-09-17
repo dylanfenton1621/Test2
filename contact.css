@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+}
+
+.contact2 {
+    color: orangered;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.email {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.phone {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.address {
+    color: white;
+    font-size: large;
+    text-align: center;  
+}

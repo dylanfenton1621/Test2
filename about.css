@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+.about2 {
+    color: orangered;
+    font-family:'Courier New';
+    text-align: center; 
+}
+
+.about3 {
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
